@@ -1,0 +1,48 @@
+<accounts>
+    <account>
+        <label>Account 1</label>
+        <balance>1000.0</balance>
+        <accountNumber>12345</accountNumber>
+        <clients>
+            <client>Client A</client>
+            <client>Client B</client>
+        </clients>
+    </account>
+    <account>
+        <label>Account 2</label>
+        <balance>2500.0</balance>
+        <accountNumber>67890</accountNumber>
+        <clients>
+            <client>Client C</client>
+            <client>Client D</client>
+        </clients>
+    </account>
+    <account>
+        <label>Account 3</label>
+        <balance>500.0</balance>
+        <accountNumber>54321</accountNumber>
+        <clients>
+            <client>Client E</client>
+        </clients>
+    </account>
+    <account>
+        <label>Account 4</label>
+        <balance>7000.0</balance>
+        <accountNumber>98765</accountNumber>
+        <clients>
+            <client>Client F</client>
+            <client>Client G</client>
+            <client>Client H</client>
+        </clients>
+    </account>
+    <account>
+        <label>Account 5</label>
+        <balance>300.0</balance>
+        <accountNumber>13579</accountNumber>
+        <clients>
+            <client>Client I</client>
+            <client>Client J</client>
+            <client>Client K</client>
+        </clients>
+    </account>
+</accounts>

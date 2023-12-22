@@ -1,0 +1,58 @@
+[
+    {
+        "comment": "Payment for groceries",
+        "identifier": 1,
+        "amount": 50.25,
+        "targetAccountNumber": 123456789,
+        "effect": true,
+        "date": "2023-12-22T08:00:00Z"
+    },
+    {
+        "comment": "Salary deposit",
+        "identifier": 2,
+        "amount": 2000.0,
+        "targetAccountNumber": 987654321,
+        "effect": true,
+        "date": "2023-12-21T12:00:00Z"
+    },
+    {
+        "comment": "Rent payment",
+        "identifier": 3,
+        "amount": 800.0,
+        "targetAccountNumber": 555555555,
+        "effect": true,
+        "date": "2023-12-20T10:00:00Z"
+    },
+    {
+        "comment": "Online shopping",
+        "identifier": 4,
+        "amount": 120.75,
+        "targetAccountNumber": 333333333,
+        "effect": true,
+        "date": "2023-12-19T15:00:00Z"
+    },
+    {
+        "comment": "Utility bill payment",
+        "identifier": 5,
+        "amount": 150.0,
+        "targetAccountNumber": 444444444,
+        "effect": true,
+        "date": "2023-12-18T09:00:00Z"
+    },
+    {
+        "comment": "Investment deposit",
+        "identifier": 6,
+        "amount": 500.0,
+        "targetAccountNumber": 999999999,
+        "effect": true,
+        "date": "2023-12-17T11:00:00Z"
+    },
+    {
+        "comment": "Dinner expense",
+        "identifier": 7,
+        "amount": 35.5,
+        "targetAccountNumber": 777777777,
+        "effect": true,
+        "date": "2023-12-16T20:00:00Z"
+    }
+]
